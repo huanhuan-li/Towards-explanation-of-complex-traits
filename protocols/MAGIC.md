@@ -1,3 +1,5 @@
+Cause a prior GRN is necessary, a imputation operation to recover gene-gene interaction will benifit. 
+
 [MAGIC(Markov affinitybased graph imputation of cells)](https://doi.org/10.1016/j.cell.2018.05.061)  
 MAGIC restores noisy and sparse single-cell data using diffusion geometry.   
 ### pre-requests of input data 
