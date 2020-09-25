@@ -1,5 +1,5 @@
 DataSet: Human Bone Marrow   
-Normalization: total counts to median counts
+Normalization: total counts to median counts  
 Imputation: MAGIC, input: sqrt after Normalization 
 Hvgs: CV>1, n_gene=2888, n_TFs=195  
 Genies: MAGIC data as input, cutoff is 0.025, n_links=35047  
